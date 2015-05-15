@@ -1461,7 +1461,7 @@ p {  font-size: 17px;}
 }
 
 
-#bio-page #intro-banner { background-image:url(intro-mobile2.png);z-index: 0;}
+#bio-page #intro-banner { background-image:url(new2.png);z-index: 0;}
 
 #logo {    position: relative;
   float: left;
@@ -1484,7 +1484,7 @@ p {  font-size: 17px;}
   line-height: 1.25em;
 }
 
-#intro-banner {   background-image: url(intro-mobile.png);z-index: 0;}
+#intro-banner {   background-image: url(new1.png);z-index: 0;}
 
 #standard-page section:first-of-type{ padding-top:100px;}
 
